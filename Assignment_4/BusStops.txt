@@ -1,0 +1,46 @@
+0:Albion Street
+1:Anzac Parade
+2:Appian Way
+3:Barrenjoey
+4:Bathurst Street
+5:Bayswater Road
+6:Blacktown
+7:Bondi Road
+8:Bridge Street
+9:Broadway
+10:Castlereagh
+11:City Road
+12:Cleveland
+13:College Street
+14:Crown Street
+15:Cumberland
+16:Darling Point
+17:Eddy Avenue
+18:Elizabeth Street
+19:Epping
+20:Five Ways
+21:General Holmes
+22:George Street
+23:Glebe Point
+24:Gore Hill
+25:Goulburn
+26:Great North
+27:Great Western
+28:Grosvenor
+29:Harris Street
+30:Heathcote
+31:Henry Lawson
+32:Hereward
+33:Hunter Street
+34:Lane Cove
+35:Lennox Bridge
+36:Lime Street
+37:Macquarie Street
+38:Market Street
+39:Martin Place
+40:South Head
+41:Old Windsor
+42:Park Street
+43:Parramatta Road
+44:Pennant Hills
+45:Phillip Street

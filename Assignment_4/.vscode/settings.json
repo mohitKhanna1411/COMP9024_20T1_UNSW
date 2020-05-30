@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "__config": "c",
+        "__locale": "c",
+        "chrono": "c",
+        "cstddef": "c",
+        "algorithm": "c",
+        "functional": "c",
+        "iterator": "c",
+        "locale": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "heap.h": "c",
+        "graph.h": "c",
+        "myheap.h": "c"
+    }
+}
